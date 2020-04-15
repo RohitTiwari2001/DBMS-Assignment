@@ -1,5 +1,6 @@
 2.
 mysql> create database cs_student;
+mysql> use cs_student;
 
 mysql> create table personal_information(
     -> Roll_no int(10) primary key,
