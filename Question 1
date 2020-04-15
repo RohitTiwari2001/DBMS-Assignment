@@ -1,5 +1,6 @@
 1.
 mysql> create database du_library;
+mysql> use du_library;
 
 mysql> create table LibraryBooks(
     -> Accession_Number decimal(10,5) primary key,
