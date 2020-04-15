@@ -1,5 +1,6 @@
 3.
 mysql> create database twowheeler;
+mysql> use twowheeler;
 
 mysql> create table customer(
     -> CustId varchar(20) primary key,
