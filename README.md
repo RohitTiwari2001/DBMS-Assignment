@@ -24,12 +24,19 @@ c. Custom
 5. Complete the configuration process
 
 # Contents
-### Table 1
+### Question 1
 ###### Database name 
 du_library
-###### Tables- 
+###### Tables
 1.LibraryBooks
 
 2.IssuedBooks
+### Question 2
+###### Database name
+cs_student
+###### Tables
+1.Personal_information
+2.Paper_details
+3.Academic_details
 
 
