@@ -24,7 +24,9 @@ c. Custom
 5. Complete the configuration process
 
 # Contents
-## Table 1
-Database name-
+### Table 1
+Database name - du_library
+Tables- 1. LibraryBooks
+        2.IssuedBooks
 
 
