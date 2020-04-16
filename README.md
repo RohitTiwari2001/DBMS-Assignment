@@ -40,5 +40,38 @@ cs_student
 2.Paper_details
 
 3.Academic_details
+### Question 3
+###### Database name
+twowheeler
+###### Tables
+1. Customer
 
+2. BicycleModel
+
+3. Bicycle
+
+4. Service
+### Question 4
+###### Database name
+employee_details
+###### Tables
+1. Employee
+
+2. Company
+
+3. Works
+
+4. Manages
+### Question 5
+###### Database name
+product
+
+###### Table
+1. Suppliers
+
+2. Parts
+
+3. Project
+
+4. Shipment
 
