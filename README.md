@@ -25,8 +25,10 @@ c. Custom
 
 # Contents
 ### Table 1
-Database name - du_library jbgcbjcgc fuufvnd 
-Tables- 1. LibraryBooks
-        2.IssuedBooks
+###### Database name 
+du_library
+###### Tables- 
+1. LibraryBooks
+2.IssuedBooks
 
 
