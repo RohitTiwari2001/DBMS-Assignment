@@ -22,10 +22,10 @@ mysql> create table Academic_Details(
     -> foreign key(roll_no) references personal_information(roll_no),
     -> foreign key(paper_code) references Paper_details(paper_code));
 
-Q (a)   Primary key - Roll_no in table personal_informartion
-                             Paper_code in table Paper_details
+Q (a)   Primary key - Roll_no in table personal_information
+                      Paper_code in table Paper_details
         Foreign key - Roll_no in table Academic_Details
-                            Paper_code in table Academic_Details
+                      Paper_code in table Academic_Details
 
 mysql> insert into personal_information values(1201,"Amit Kandpal",'2001-01-04',"Delhi",91,9102829875);
 mysql> insert into personal_information values(1205,"Anuj Joshi",'2001-04-29',"Uttarakhand",89,9748483743);
@@ -45,7 +45,7 @@ mysql> insert into Academic_details values(1214,2,65,91);
 mysql> insert into Academic_details values(1214,2,65,91);
 mysql> insert into Academic_details values(1219,1,75,65);
 
-Q(b) mysql> select pd.paper_code, pd.nameofpaper, pi.name from paper_details as pd, personal_information as pi where paper_code=2 and pi.roll_no in(select roll_no from academic_details where paper_code=2 and attendence>75 and marks>60);
+Q (b) mysql> select pd.paper_code, pd.nameofpaper, pi.name from paper_details as pd, personal_information as pi where paper_code=2 and pi.roll_no in(select roll_no from academic_details where paper_code=2 and attendence>75 and marks>60);
 
 Q (c) mysql> select name from personal_information as pi, academic_details as ad where pi.roll_no=ad.roll_no and ad.marks>60 and ad.paper_code=1 and pi.Address="Delhi";
 
