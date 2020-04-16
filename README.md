@@ -1,4 +1,7 @@
 # DBMS-Assignment
+Name- Rohit Tiwari
+Course- BSc(Hons) Statistics 1st Year
+Roll- 20191231
 
 # Table of content
 * [General info](#general-info)
