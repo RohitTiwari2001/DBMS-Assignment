@@ -36,7 +36,9 @@ du_library
 cs_student
 ###### Tables
 1.Personal_information
+
 2.Paper_details
+
 3.Academic_details
 
 
