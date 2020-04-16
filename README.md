@@ -28,8 +28,7 @@ c. Custom
 ###### Database name 
 du_library
 ###### Tables- 
-1. LibraryBooks
-
+1.LibraryBooks
 2.IssuedBooks
 
 
