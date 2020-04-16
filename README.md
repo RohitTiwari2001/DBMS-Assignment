@@ -16,6 +16,6 @@ This assignment is completed in MYSQL. It consists of 5 questions which have cov
 1. Download the MySQL Installer from dev.mysql.com.
 2. Run the installer that you downloaded from its location on your server, generally by double-clicking
 3. Determine which setup type you would like to use for the installation: 
-   Developer Default
-   Server Only
-   Custom
+** Developer Default
+** Server Only
+** Custom
